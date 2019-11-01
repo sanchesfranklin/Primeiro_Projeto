@@ -1,0 +1,61 @@
+.texto-logo img {
+    margin: 0;
+    width: 200px;
+}
+
+nav img {
+    width: 200px;
+    margin-right: 30px;
+}
+
+.portifolio {
+    margin-top: 30px;
+}
+
+.servicos-cards {
+    margin-left: 1px;
+    text-align: center;
+}
+
+.nav-contatos img {
+    width: 40px;
+}
+
+.footer2 {
+    margin-top: 20px; 
+}
+
+.footer2 img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.footer2 p {
+    font-size: 15px;
+}
+
+footer {
+    background-color: #4682B4;
+    opacity: 0.8 ;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.nav-item img {
+    width: 30px;
+    margin: 0;
+    margin-bottom: 3px;
+}
+
+.inicio {
+    margin-bottom: 0;
+}
+
+.orcamento {
+    margin-bottom:
+}
+
+.carousel-inner img {
+    width: 100%;
+}
